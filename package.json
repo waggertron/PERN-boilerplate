@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/waggertron/PERN-boilerplate#readme",
   "dependencies": {
+    "config": "^1.25.1",
     "express": "^4.14.1",
-    "express-config": "0.0.1"
+    "sequelize": "^3.30.1"
   }
 }
